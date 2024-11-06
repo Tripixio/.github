@@ -1,5 +1,5 @@
-# .github
-Tripixio DAO WHITEPAPER
+
+# Tripixio DAO WHITEPAPER
 
 Introducing
 
